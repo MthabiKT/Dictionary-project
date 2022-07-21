@@ -1,0 +1,11 @@
+.Phonetics a {
+  line-height: 11px;
+  padding: 6px;
+  text-decoration: none;
+  color: black;
+  margin: 5px;
+}
+
+.Phonetics div {
+  padding: 50px;
+}

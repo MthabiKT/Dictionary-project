@@ -1,0 +1,12 @@
+.Results section {
+  margin: 30px;
+  box-shadow: 5px 5px 5px 10%;
+}
+.Results h2 {
+  font-size: 40px;
+  padding: 5px;
+}
+.Results h2,
+h3 {
+  font-weight: 700;
+}
